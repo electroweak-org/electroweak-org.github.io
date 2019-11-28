@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Wouter Deconinck
 
-You can use the [editor on GitHub](https://github.com/wouterdeconinck/wouterdeconinck.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Biosketch
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wouter Deconinck is an Associate Professor of Physics at the University of Manitoba. After receiving his MS degree in physics engineering in 2003 at the University of Ghent in Belgium, he conducted his PhD research on exotic baryon spectroscopy at the HERMES experiment at DESY, Hamburg, Germany. He defended his dissertation in 2007 at the University of Michigan under the direction of Wolfgang Lorenzon. He moved to Williamsburg in 2008 to start a postdoctoral researcher position for MIT stationed at Jefferson Lab.
 
-### Markdown
+Since he joined the faculty at William & Mary in 2010, Wouter Deconinck has focused his research activities in experimental nuclear physics at Jefferson Lab. In particular, he is conducting precision measurements of quantities that have accurate predictions in our current best theory of particles and their fundamental interactions. His experiments are conducted by large international collaborative groups of up to 100 physicists. At William & Mary, Wouter Deconinck is active as founder of the Small Hall Makerspace, a creative space where students can design, build and learn using a variety of tools, including 3D printers, laser cutters, CNC milling machines, robotics platforms, electronics prototyping equipment, and virtual reality headsets.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In 2019 Wouter Deconinck joined the University of Manitoba.
 
-```markdown
-Syntax highlighted code block
+Wouter Deconinck has taught at all levels in the physics curriculum, from introductory physics for life-science students over intermediate lecture-based and lab-based courses for physics majors, to foundational and advanced graduate courses. He particularly enjoyed teaching a science writing seminar, and is fascinated by courses that include some design components (such as his electronics laboratory course).
 
-# Header 1
-## Header 2
-### Header 3
+Outside the classroom, Wouter Deconinck is active nationally in improving access to minorities in the sciences, working to promote research experiences for disadvantaged undergraduates at teaching colleges through the W&M Physics REU program and as one of the founding members of the national committee on LGBT+ issues in physics of the American Physical Society.
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
+Wouter Deconinck
+Email: wouter.deconinck@umanitoba.edu
+Phone: +1 (204) 474-6206
+Associate Professor of Physics
+University of Manitoba
+30A Sifton Road, Winnipeg MB R3T 2N2
+Office: 204 Allen / JLab CC F345
 
-**Bold** and _Italic_ and `Code` text
+### Acknowledgements
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wouterdeconinck/wouterdeconinck.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This work was supported in part by the U.S. National Science Foundation under Grant Nos. PHY-1156997, PHY-1206053, PHY-1359364, PHY-1405857, DUE-1625872, PHY-1714792.
