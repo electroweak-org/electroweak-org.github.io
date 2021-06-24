@@ -15,7 +15,7 @@ Outside the classroom, Wouter Deconinck is active nationally in improving access
 ### Contact
 
 Wouter Deconinck
-Email: wouter.deconinck@umanitoba.edu
+Email: wouter.deconinck@umanitoba.ca
 Phone: +1 (204) 474-6206
 Associate Professor of Physics
 University of Manitoba
